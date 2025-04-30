@@ -1,2 +1,0 @@
-# assignment-website
-Assignment Website
